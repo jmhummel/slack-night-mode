@@ -712,7 +712,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .messages_header { color: #e6e6e6; }
 
-.channel_title .channel_name_container .channel_name { color: #e6e6e6; }
+.channel_title .channel_name_container .channel_name { color: #CB772F; }
 
 .channel_title .channel_name_container .channel_name.muted { color: #949494; }
 
