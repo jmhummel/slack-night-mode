@@ -36,7 +36,7 @@ pre { color: #619647; }
 
 .alert-info h4 { color: #e6e6e6; }
 
-.code {color: #FFC66D}
+code {color: #FFC66D}
 
 ::-webkit-scrollbar-track { background: #363636 !important; border-left-color: #363636 !important; border-right-color: #363636 !important; color: #363636 !important; }
 
