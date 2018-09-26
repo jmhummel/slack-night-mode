@@ -1381,7 +1381,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 #archives_end_div_msg_lim h2, #end_display_msg_lim h2 { color: rgba(230, 230, 230, 0.8); }
 
-code { background-color: #000; border: 1px solid #363636; color: #FFC66D; }
+code { background-color: #000; border: 1px solid #363636; color: #FFC66D; !important;}
 
 .file_list_item.snippet .snippet_preview { background: #000; }
 
