@@ -3526,13 +3526,13 @@ body.api .reverse_header { background-color: #000; color: #e6e6e6; }
 
 body.api pre { overflow-x: auto; }
 
-body.api pre code { color: #e6e6e6; }
+body.api pre code { color: #FFC66D; }
 
 body.api #page_contents .card { background: #363636; }
 
-body.api .scopes_to_methods code { color: #e6e6e6; }
+body.api .scopes_to_methods code { color: #FFC66D; }
 
-body.api .scopes_to_methods .selected code { color: #bf360c; }
+body.api .scopes_to_methods .selected code { color: #FFC66D; }
 
 body.api .scopes_to_methods li { color: #e6e6e6; }
 
