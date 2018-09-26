@@ -946,7 +946,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message_list__spinner { color: #949494; }
 
-.c-message_list .c-scrollbar__bar { background: #424242; }
+.c-message_list .c-scrollbar__bar { background: #7f7f7f; }
 
 .c-virtual_list__item--focus:focus .c-message_list__focus_indicator { box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8); }
 
