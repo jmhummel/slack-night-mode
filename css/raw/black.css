@@ -68,7 +68,7 @@ pre { color: #619647; }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:link, .p-channel_sidebar__channel--selected:visited, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:link, .p-channel_sidebar__link--selected:visited, .p-channel_sidebar__link--selected:hover { color: #e6e6e6; }
 
-.p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover { background: #214283 !important; }
+.p-channel_sidebar__channel:hover, .p-channel_sidebar__link:hover { background: #2f65ca !important; }
 
 .p-channel_sidebar__header { color: #e6e6e6 !important; }
 
@@ -76,7 +76,7 @@ pre { color: #619647; }
 
 .p-channel_sidebar__channel--im .c-presence--away { color: #949494; }
 
-.p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { background: #545454 !important; }
+.p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected { background: #0d293e !important; }
 
 .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected:hover { background: #545454 !important; }
 
