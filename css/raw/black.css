@@ -1525,7 +1525,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: #bf360c; }
 
 .dense_theme ts-message .message_content .message_current_status { border-color: #363636; }
 
-.c-message--light .c-message__sender .c-message__sender_link { color: #e6e6e6; }
+.c-message--light .c-message__sender .c-message__sender_link { color: #CB772F; }
 
 .light_theme ts-message { color: #e6e6e6; }
 
