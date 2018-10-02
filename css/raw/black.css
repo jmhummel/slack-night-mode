@@ -30,7 +30,7 @@ pre { color: #619647; }
 
 .c-dialog__body .c-dialog__header .dialog__footer { background: #2b2b2b; }
 
-.c-dialog__title .p-share_dialog_message_input { color: white; }
+.c-dialog__title .p-share_dialog_message_input .inline_message_input_container { color: white; }
 
 .c-message_attachment__author_name { color: #CB772F;}
 
