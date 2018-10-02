@@ -28,6 +28,12 @@ pre { color: #619647; }
 
 .bullet { color: #949494; }
 
+.c-dialog__body .c-dialog__header .dialog__footer { background: #2b2b2b; }
+
+.c-dialog__title .p-share_dialog_message_input { color: white; }
+
+.c-message_attachment__author_name { color: #CB772F;}
+
 .alert, .c-alert, .c-alert--boxed { background-color: #3C3F41; border-color: #000; color: #e6e6e6; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
 
 .alert h4, .c-alert h4, .c-alert--boxed h4 { color: #e6e6e6; }
