@@ -1595,7 +1595,7 @@ body > pre { background: #828282; }
 
 .p-threads_footer__input .p-message_input_file_button, .p-threads_footer__input--legacy .p-message_input_file_button { background: #2b2b2b; }
 
-.p-threads_view__default_background .p-threads_view { background: #2b2b2b; }
+.p-threads_view__default_background .p-threads_view .p-threads_view_reply .p-threads_view_root { background: #2b2b2b; }
 
 ts-thread { background: #2b2b2b; }
 
